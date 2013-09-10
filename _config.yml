@@ -1,6 +1,3 @@
-safe:           false
-auto:           false
-server:         false
 baseurl:        /
 url:            http://timwhittley.com
 
